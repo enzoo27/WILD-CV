@@ -7,7 +7,7 @@ _Futur Technicien Supérieur Système & Réseau_
   <img src="https://cdn.discordapp.com/attachments/1119408361499279450/1151431624219709541/Headerbild-Was-ist-GitHub-v2.png" width="62" height="32">
 </a>
 <a href="https://www.linkedin.com/in/enzo-rodrigues-59ba1124a/" target"_blank">
-  <img src="https://cdn.discordapp.com/attachments/1119408361499279450/1151433227999924245/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw.png" width="40" height="30">
+  <img src="https://cdn.discordapp.com/attachments/1119408361499279450/1151433227999924245/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw.png" width="35" height="30">
 </a>
 </p>
     
