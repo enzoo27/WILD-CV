@@ -2,7 +2,7 @@
 
 Enzo RODRIGUES
 _Futur Technicien Supérieur Système & Réseau_  
-<p align="center">
+<p align="left">
 <a href="https://github.com/enzoo27" target"_blank">
   <img class="" src="https://cdn.discordapp.com/attachments/1119408361499279450/1151431624219709541/Headerbild-Was-ist-GitHub-v2.png" width="82" height="52">
 </a>
